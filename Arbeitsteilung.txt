@@ -1,0 +1,18 @@
+Hannah Eliza Schaible:
+Main character sprite sheet & animation, Level design, README, Record of the game walkthrough
+
+Martina Georgieva:
+Background music, Items collection and collision with enemies sounds, Game over sound, Level complete sound 
+
+Viktoriia Shmyhol:
+Level design with tilemaps, Character movement(right, left, jump), Enemies movement script, Collisions with items and enemies, Connection of taking damage in health bar on collision with enemies, Score in levels, Score in Level complete and Game over menus, Player navigation(Pointers)
+
+Viktoriia Trubina:
+Organization, GitHub, Menus (Main, Options, Pause, Level Complete, Game Over, Credits) scripts & designs, Volume settings through volume slider in Options menu & its connection with MainMixer, Health bar, Camera follow, Trees' animations, Enemies sprite sheets & their animations, Level design, Glow effect, Built executable, Made installer, Cut the video
+
+
+Hannah Eliza Schaible and Viktoriia Trubina:
+Designed all assets
+
+Everybody:
+Checkliste
